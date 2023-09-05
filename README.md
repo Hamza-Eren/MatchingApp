@@ -9,7 +9,7 @@ Bu uygulama ingilizcenizi geliştirmeniz için hazırlanmış seviyelere göre k
 ### Örnek Resimler
 
 ![Açılış Ekranı](https://github.com/Hamza-Eren/MatchingApp/blob/main/images/StartScreen.png)
-> `Seviye seçme ekranı`
+> `Seviye seçme ekranı` (C1 ve C2 eklenicektir.)
 ---
 ![Uygulama Ekranı](https://github.com/Hamza-Eren/MatchingApp/blob/main/images/GameScreen.png)
 > `Seçtiğiniz seviyeye göre oyun ekranı`
