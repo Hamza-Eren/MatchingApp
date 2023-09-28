@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep  2 18:30:52 2023
-
 @author: HamzaEren
 """
 
