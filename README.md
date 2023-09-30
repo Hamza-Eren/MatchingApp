@@ -1,4 +1,4 @@
-### Kullanılan kütüphaneler
+## Kullanılan kütüphaneler
 * tkinter
 * PIL
 * random
