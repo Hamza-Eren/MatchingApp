@@ -6,7 +6,7 @@
 ## Açıklama:
 Bu uygulama ingilizcenizi geliştirmeniz için hazırlanmış seviyelere göre kelime eşleştirme uygulamasıdır. 
 
-### Örnek Resimler
+## Örnek Resimler
 
 ![Açılış Ekranı](https://github.com/Hamza-Eren/MatchingApp/blob/main/images/StartScreen.png)
 > `Seviye seçme ekranı` (C1 ve C2 eklenicektir.)
